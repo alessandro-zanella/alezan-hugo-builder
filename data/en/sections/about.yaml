@@ -1,0 +1,79 @@
+section:
+  name: About # Title of section (default: "")
+  id: about # url id/slug of section *Required*
+  enable: true # Boolean to determine if this section is enabled (default: false)
+  weight: 1 # Order to display section in (default: alphabetical followed by weight)
+  showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
+  template: sections/about.html # allows you to point to a specific template.
+# your designation
+summary: '
+  ### Current Employment
+  
+  I’m a 26-year-old professional currently managing real estate operations as an administrator for four companies. With a background in web and game development, I’ve worked on various side projects and helped organize the European Ballet Grand Prix since 2017, designing its evaluation process and assisting on-site. After five years in the private sector, I’m now shifting my career to cybersecurity, actively working on projects and pursuing certifications to build expertise in the field.
+  
+
+  ### Hobbies
+
+  - **Tech Experiments**: Developing scripts, apps, and network-based projects, both online and locally.  
+
+  - **Dancing**: (Instructor) Passionate about Latin dances, including Salsa and Kizomba. 
+
+  - **Martial Arts**: Training for discipline, fitness, and self-improvement.  
+
+  - **Nature & Outdoors**: Enjoy hiking, camping, and building small outdoor projects.  
+  
+
+  '
+
+  
+designation: Administrator
+# your company information
+company:
+  name: PANEDOR, EDITURA COLOCVII, PEREVO SRL, RAINY DAWN ENTERTAINMENT
+# a summary about you
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "zawnjin@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github/zawnjin"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/alessandro-zanella-456614350/"
+
+
+  # your resume. this file path should be relative to you "static" directory
+resourceLinks:
+- title: "My Resume"
+  url: "files/resume.pdf"
+
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+# - type: certification
+#   name: Certified Kubernetes Security Specialist
+#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 90
+  color: green
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 85
+  color: orange
+
+- type: soft-skill-indicator
+  name: Creative Problem Solving
+  percentage: 95
+  color: blue

@@ -1,0 +1,37 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Critical & Logical Thinking
+  # logo: /images/sections/skills/kubernetes.png
+  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  url: "https://kubernetes.io/"
+
+- name: Web Development
+  # logo: /images/sections/skills/docker.png
+  summary: "Experienced in developing web applications using HTML, JavaScript, and CSS. Proficient in backend development using Node.js, Express, and MongoDB."
+  url: "https://developer.mozilla.org/en-US/docs/Web"
+
+- name: Game Development
+  # logo: /images/sections/skills/docker.png
+  summary: "Developed games using Unity and Godot Engine. Experienced in C# and GDScript programming."
+  url: "https://unity.com/"
+
+- name: Networking & Cisco Packet Tracer
+  # logo: /images/sections/skills/docker.png
+  summary: "Experience in configuring and managing network devices."
+  url: "https://www.netacad.com/courses/packet-tracer"
+
+- name: Wireshark & Network Analysis
+  # logo: /images/sections/skills/docker.png
+  summary: "Experience in analyzing network traffic and troubleshooting network issues."
+  url: "https://www.wireshark.org/"

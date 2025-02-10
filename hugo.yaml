@@ -1,6 +1,18 @@
 background: "images/default-background.png"
 # Optional, for a different background image in dark mode
 #darkBackground: "images/name-of-your-dark-background-image.jpg"
+# Enable and configure blog posts
+blog:
+  enable: true
+  showAuthor: true # shows the post author (defaults true)
+toc:
+  enable: true
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
 
 
 module:
