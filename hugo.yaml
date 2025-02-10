@@ -1,3 +1,8 @@
+background: "images/default-background.png"
+# Optional, for a different background image in dark mode
+#darkBackground: "images/name-of-your-dark-background-image.jpg"
+
+
 module:
   hugoVersion:
     min: "0.142.0"

@@ -3,7 +3,7 @@
   {{ $author = (index site.Data site.Language.Lang).author }}
 {{ end }}
 
-{{ $name:="Jane Doe" }}
+{{ $name:="Alessandro Zanella" }}
 {{ if $author.nickname }}
   {{ $name = $author.nickname }}
 {{ else if $author.name }}
@@ -15,7 +15,7 @@
   {{ $sections = (index site.Data site.Language.Lang).sections }}
 {{ end }}
 
-{{ $backgroundImage:= "/images/default-background.jpg" }}
+{{ $backgroundImage:= "/images/default-background.png" }}
 {{ if site.Params.background }}
   {{ $backgroundImage = site.Params.background }}
 {{ end }}
