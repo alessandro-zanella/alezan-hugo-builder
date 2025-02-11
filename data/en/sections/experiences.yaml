@@ -44,15 +44,13 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Learning about IT.
-    - Learning about Web Development.
-    - Learning about Game Development.
-    - Learning about Networking.
-    - Learning about Cisco Packet Tracer.
-    - Learning about Wireshark.
+    - Completing Projects
+    - Web Development & Game Development.
+    - Networking & Cisco Packet Tracer.
+    - Wireshark, TCP/IP, OSI, CCNA Preparation.
 - company:
     name: Engel & Völkers
-    url: "https://www.spengergasse.at/"
+    url: "https://www.engelvoelkers.com/at/de/immobilienmakler/wien"
     location: Vienna, Austria
     # logo: /images/experiences/company.png
     # darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
