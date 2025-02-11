@@ -69,11 +69,21 @@ badges:
   color: green
 
 - type: soft-skill-indicator
-  name: Hard Working
+  name: Work Ethics
   percentage: 85
   color: orange
 
 - type: soft-skill-indicator
-  name: Creative Problem Solving
-  percentage: 95
+  name: Problem Solving
+  percentage: 90
   color: blue
+
+- type: soft-skill-indicator
+  name: Logical Thinking
+  percentage: 95
+  color: purple
+
+- type: soft-skill-indicator
+  name: Creativity
+  percentage: 90
+  color: yellow

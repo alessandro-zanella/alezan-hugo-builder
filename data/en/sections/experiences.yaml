@@ -1,0 +1,123 @@
+section:
+  name: Experiences # Titre de la section (par défaut: "" )
+  id: experiences # url id/slug of section *Required*
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Practica - Erste Group Bank AG
+    url: "https://www.erstegroup.com/en/home"
+    location: Vienna, Austria
+    # logo: /images/experiences/company.png
+    # darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: Worked at Erste during my Time at the HTL Spengergasse for two months during the summer vacation.
+  positions:
+  - designation: IT Support
+    start: Jun 2017
+    end: Aug 2017
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Helping Employees with their IT problems.
+    - Using Remote Desktop to help employees.
+    - Technical Solutions for the Employees.
+- company: 
+    name: Graduation - Hoehere Technische Lehranstalt Spengergasse
+    url: "https://www.spengergasse.at/"
+    location: Vienna, Austria
+    # logo: /images/experiences/company.png
+    # darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: I studied at the HTL Spengergasse (Technical College) for five years, where I learned a lot about IT, Web Development, and Game Development.
+  positions:
+  - designation: Student
+    start: Sep 2014
+    end: Jun 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Learning about IT.
+    - Learning about Web Development.
+    - Learning about Game Development.
+    - Learning about Networking.
+    - Learning about Cisco Packet Tracer.
+    - Learning about Wireshark.
+- company:
+    name: Engel & Völkers
+    url: "https://www.spengergasse.at/"
+    location: Vienna, Austria
+    # logo: /images/experiences/company.png
+    # darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: I worked at Engel & Voelkers during the Covid-19 as a Real Estate Agent.
+  positions:
+  - designation: Real Estate Agent
+    start: April 2020
+    end: Oct 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Selling % Renting Real Estate.
+    - Communicating with clients.
+    - Marketing of Real Estate.
+    - Photography of Real Estate.
+    - Working Leads of Potential Clients.
+- company:
+    name: PANEDOR, PEREVO SRL, EDITURA COLOCVII, RAINY DAWN ENTERTAINMENT
+    # url: "https://www.panedor.ro/"
+    location: Cluj-Napoca, Romania
+    # logo: /images/experiences/company.png
+    # darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: WoEmployment in the private real estate sector and leading our family business here in Romania, since 2018.
+  positions:
+  - designation: Owner & Administrator
+    start: Jan 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+ ## Real Estate Management Responsibilities
+
+      - Managing rental agreements, leases, and contracts  
+
+      - Handling tenant inquiries, concerns, and complaints  
+
+      - Ensuring timely rent collection and financial tracking  
+
+
+      - Scheduling regular upkeep and inspections  
+
+      - Coordinating repairs with handymen and contractors 
+
+      - Ensuring properties meet safety and legal standards  
+
+
+      - Supervising multiple employees and assigning tasks  
+
+      - Collaborating with maintenance teams and service providers 
+
+      - Negotiating contracts with vendors and suppliers  
+
+
+      - Budgeting and expense tracking for properties  
+
+      - Managing invoices, payments, and financial records  
+
+      - Handling legal compliance and documentation  
+
+
+      - Identifying opportunities for property value improvement 
+
+      - Planning renovations and modernizations  
+      
+      - Optimizing operational efficiency for long-term growth  
