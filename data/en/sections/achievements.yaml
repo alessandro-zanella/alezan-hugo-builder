@@ -1,0 +1,14 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: false
+  weight: 9
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+achievements:
+- title: Best Presenter
+  image: images/sections/achievements/presenter.jpg
+  summary: Best presenter in the 2020 XYZ conference.
