@@ -10,7 +10,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
   init('#ityped', {
     strings,
+    typeSpeed: 80,
     startDelay: 200,
+    backDelay: 2000,
     loop: true
   })
 })
