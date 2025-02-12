@@ -1,14 +1,14 @@
-navBarTitle: "Home"
-description: Alessandro Zanella's (aka Zawnjin) personal website.
+navBarTitle: "Alessandro Zanella"
+description: Alessandro Zanella's personal website.
 # Meta description for your site.  This will help the search engines to find your site.
 
 customMenus:
 - name: Github
-  url: https://github.com/zawnjin
+  url: https://github.com/alessandro-zanella
   hideFromNavbar: false
   showOnFooter: true
 - name: LinkedIn
-  url: https://www.linkedin.com/in/alessandro-zanella-456614350/
+  url: https://www.linkedin.com/in/alessandro-zanella-464528171/
   hideFromNavbar: false
   showOnFooter: true
 - name: Blog

@@ -16,12 +16,9 @@ summary: '
 
   - **Tech Experiments**: Developing scripts, apps, and network-based projects, both online and locally.  
 
-  - **Dancing**: (Instructor) Passionate about Latin dances, including Salsa and Kizomba. 
+  - **TryHackMe** Rooms & Challenges
 
-  - **Martial Arts**: Training for discipline, fitness, and self-improvement.  
-
-  - **Nature & Outdoors**: Enjoy hiking, camping, and building small outdoor projects.  
-  
+  - **Dance Instructor** | Passionate about Latin dances, including Salsa and Kizomba. 
 
   '
 
@@ -37,21 +34,21 @@ company:
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "zawnjin@gmail.com"
+  url: "zan15592@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://github/zawnjin"
+  url: "https://github/alessandro-zanella"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/alessandro-zanella-456614350/"
+  url: "https://www.linkedin.com/in/alessandro-zanella-464528171/"
 
 
   # your resume. this file path should be relative to you "static" directory
-resourceLinks:
-- title: "My Resume"
-  url: "files/resume.pdf"
+# resourceLinks:
+# - title: "My Resume"
+#   url: "files/resume.pdf"
 
 
 # Show your badges
