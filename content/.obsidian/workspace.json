@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project_ideas/Website_internal_Link_Crawler.md",
+                "file": "projects/TOM_for Financial_Freedom.md/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Website_internal_Link_Crawler"
+              "title": "_index"
+            }
+          },
+          {
+            "id": "270788d578998c3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/TOM_for Financial_Freedom.md/_index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,10 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80e2ffa7dd03944a",
+  "active": "270788d578998c3b",
   "lastOpenFiles": [
-    "project_ideas/_index.md",
+    "projects/TOM_for Financial_Freedom.md/Phase1_Planning_And_Design.md",
+    "projects/TOM_for Financial_Freedom.md/_index.md",
     "project_ideas/Website_internal_Link_Crawler.md",
+    "projects/TOM_for Financial_Freedom.md",
+    "projects/Wealmen - Wealth Management Tool.md",
+    "projects/TOM_for_Financial_Freedowm.md",
+    "project_ideas/_index.md",
     "posts/Zawnjin_Dashboard.md",
     "posts/_index.md",
     "project_ideas"

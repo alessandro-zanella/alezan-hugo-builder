@@ -1,7 +1,17 @@
+---
+title: The Only Manager for Financial Freedom
+menu:
+  sidebar:
+    name: TOM for Financial Freedom
+    identifier: tom
+    weight: 400
+---
+
+
 
 #### **1. Project Overview**
 
-- **Title:** Wealman App
+- **Title:** Finance One Stop App
 - **Objective:** Develop a scalable web application for real-time financial management, including stock, crypto, real estate tracking, and integrated AI analytics.
 - **Key Features:**
     - Real-time data streaming (stocks, crypto)
@@ -102,3 +112,4 @@
 - Set up the development environment (Docker, Git, CI/CD).
 - Begin with planning & design, creating wireframes and architecture documents.
 - Schedule regular check-ins to review progress and adjust milestones.
+

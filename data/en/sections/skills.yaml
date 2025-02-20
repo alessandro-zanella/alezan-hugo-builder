@@ -35,3 +35,8 @@ skills:
   # logo: /images/sections/skills/docker.png
   summary: "Experience in analyzing network traffic and troubleshooting network issues."
   # url: "https://www.wireshark.org/"
+
+- name: Adobe Suite
+  # logo: /images/sections/skills/docker.png
+  summary: "Photoshop, Illustrator, and Premiere Pro. etc."
+  # url: "https://www.wireshark.org/"

@@ -11,10 +11,6 @@ customMenus:
   url: https://www.linkedin.com/in/alessandro-zanella-464528171/
   hideFromNavbar: false
   showOnFooter: true
-- name: Blog
-  url: /blog
-  hideFromNavbar: false
-  showOnFooter: false
 
 
 copyright: © 2024 Copyright.
